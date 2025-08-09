@@ -84,7 +84,7 @@ sonos-web can be manually installed as follows assuming npm is installed:
 ```bash
 git clone https://github.com/sonos-web/sonos-web
 
-cd client
+cd sonos-web/client
 npm install
 npm run build
 mv dist ../server/
